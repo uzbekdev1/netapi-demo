@@ -1,6 +1,6 @@
 # .NET Core Api Demo
 
-- Create new .NET Core api (version 5)
+- Create new .NET Core api (source directory is src)
 - Setup standart .net Identity package
 - Configure postgresql database (HR database)
 - Add Employee Table (have same scrips inside database folder)
